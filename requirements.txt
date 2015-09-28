@@ -1,4 +1,12 @@
-Flask>=0.10
-requests>=0.14.2
-Flask-OAuthlib>=0.4.2
-SQLAlchemy>=0.7.9
+Flask==0.9
+Flask-OAuth==0.12
+Flask-Twip==0.0.5
+Jinja2==2.6
+Werkzeug==0.8.3
+gunicorn==0.15.0
+httplib2==0.7.6
+oauth2==1.5.211
+requests==0.14.2
+wsgiref==0.1.2
+psycopg2==2.4.5
+SQLAlchemy==0.7.9
